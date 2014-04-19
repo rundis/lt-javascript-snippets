@@ -1,0 +1,19 @@
+{:modes {:+ #{:editor.javascript}}
+ :snippets [{:name "JavaScript function"
+             :key "fn"
+             :snippet "function ${1:name} (${2:params}) {$0}"}
+            {:name "JavaScript function expression"
+             :key "fne"
+             :snippet-file "fun-expr.snip"}
+            {:name "JavaScript object method"
+             :key "fnm"
+             :snippet-file "fun-obj.snip" }
+            {:name "JavaScript component"
+             :key "cmp"
+             :snippet-file "comp.snip"}
+            {:name "JavaScript Component create method"
+             :key "cc"
+             :snippet-file "component-create.snip"}
+            ]}
+
+
