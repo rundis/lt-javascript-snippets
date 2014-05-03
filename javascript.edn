@@ -14,6 +14,12 @@
             {:name "JavaScript Component create method"
              :key "cc"
              :snippet-file "component-create.snip"}
+            {:name "JavaScript For loop"
+             :key "for"
+             :snippet-file "for.snip"}
+            {:name "JavaScript For in loop"
+             :key "forin"
+             :snippet-file "forIn.snip"}
             ]}
 
 
