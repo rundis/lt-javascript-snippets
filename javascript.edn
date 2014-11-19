@@ -8,6 +8,9 @@
             {:name "JavaScript object method"
              :key "fnm"
              :snippet-file "fun-obj.snip" }
+            {:name "JavaScript Anonymous function block"
+             :key "fna"
+             :snippet-file "fun-anonymous.snip" }
             {:name "JavaScript component"
              :key "cmp"
              :snippet-file "comp.snip"}
